@@ -1,7 +1,7 @@
 <?php
 $kode = 1;
 
-swicth($kode){
+swicth ($kode){
    case 1: 
        echo "Selamat datang Admin";
        break;
@@ -14,5 +14,5 @@ swicth($kode){
    default: 
        echo "Maaf, Akses ditolak..!"
        break;
-}             
+   }          
 ?>
